@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alzobot</string>
+    <string name="title_activity_front">CreateTask</string>
+</resources>
